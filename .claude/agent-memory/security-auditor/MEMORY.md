@@ -1,0 +1,2 @@
+- [Terraform security baseline snapshot](project_terraform_baseline.md) — known-good OAC/public-block/HTTPS setup + recurring gaps (encryption, headers, OIDC, backend) as of 2026-07-09
+- [Deploy pipeline identifiers](reference_deploy_pipeline.md) — where live bucket/distribution/OIDC role IDs are documented; these in CLAUDE.md are not "hardcoded secret" findings
